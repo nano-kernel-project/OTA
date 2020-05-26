@@ -1,0 +1,25 @@
+{
+   "kernel": {
+      "version": "",
+      "link": "",
+      "changelog": "",
+      "date": "",
+      "md5": "",
+      "support": {
+         "support_domains": [
+            "xda",
+            "telegram"
+         ],
+         "support_links": {
+            "xda": "",
+            "telegram": ""
+         }
+      }
+   },
+   "updater": {
+      "link": "",
+      "latest": "",
+      "date": "",
+      "md5": ""
+   }
+}
