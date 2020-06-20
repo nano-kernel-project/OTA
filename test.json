@@ -12,11 +12,11 @@
       }
    },
    "updater": {
-      "link": "https://github.com/mscalindt/xcg-rosy/releases/download/v4.1.1/xCG-4.1.1-ROSY-Q-20200510.zip",
-      "latest": "4.1.1",
+      "link": "https://github.com/topjohnwu/Magisk/releases/download/manager-v7.5.1/MagiskManager-v7.5.1.apk",
+      "latest": "7.5.1",
       "changelog": "https://raw.githubusercontent.com/mscalindt/xcg-rosy/fkm-updater/changelog",
-      "date": "2020-05-10",
+      "date": "2020-01-09",
       "md5": "483f5ad22dd9814e94e3158cdd9b3df",
-      "size": "2.2 MB"
+      "size": "2.04 MB"
    }
 }
