@@ -1,0 +1,9 @@
+```
+Changelog v1.0.1:
+
+- Improve performance of updater.
+- Updater now shows the status in a new card
+- Updater now shows warnings and note before/after flashing kernel
+- Added a new setting to clean up directories
+- Improved UX
+```
