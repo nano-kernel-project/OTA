@@ -1,0 +1,19 @@
+{
+   "version":"r1",
+   "date":1336475226,
+   "disable_logging":false,
+   "log_channel":"-11057295303",
+   "ota_url":"https://raw.githubusercontent.com/nano-kernel-project/OTA/dev/test.json",
+   "support_group":"https://t.me/NanoKernel",
+   "support_forum":"https://forum.xda-developers.com/redmi-5/development/kernel-nano-kernel-t3914450",
+   "bottoken":"",
+   "maintainer":[
+      {
+         "name":"@shreejoy",
+         "telegram_username":"https://telegram.me/Shreejoy_Dash",
+         "github_username":"https://github.com/shreejoy",
+         "donate_url":"https://demo.paypal.com",
+         "xda_url":"https://forum.xda-developers.com/member.php?u=8338700"
+      }
+   ]
+}
