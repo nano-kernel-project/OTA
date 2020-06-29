@@ -5,7 +5,7 @@
       "changelog": "https://raw.githubusercontent.com/mscalindt/xcg-rosy/fkm-updater/changelog",
       "date": "2020-05-03",
       "md5": "32884e5ce11873eb01e2a82b4222685b",
-      "size": "17 MB",
+      "size": 12582912,
       "support": {
             "xda": "https://forum.xda-developers.com/redmi-5/development/kernel-xcg-kernel-t3998139",
             "telegram": "https://t.me/xcgkernel"
@@ -17,6 +17,6 @@
       "changelog": "https://raw.githubusercontent.com/nano-kernel-project/OTA/dev/updater_changelog",
       "date": "2020-01-09",
       "md5": "0bfc5a310d7f363f9c9c3d5f4836d1d9",
-      "size": "2.04 MB"
+      "size": 2139095.04
    }
 }
